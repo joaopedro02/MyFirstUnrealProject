@@ -1,3 +1,4 @@
+# MyFirstUnrealProject
 # Prototype1
-
-Developed with Unreal Engine 5
+A third person RGP game.
+Developed with Unreal Engine 5.
